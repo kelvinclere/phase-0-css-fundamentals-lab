@@ -3,3 +3,50 @@ body {
   height: 100%;
   margin: 0;
 }
+
+h1{
+  text-align: center;
+}
+
+#navbar{
+  text-align: center;
+  padding: 10px;
+  padding-left: 20px;
+  
+}
+
+#bar{
+  background-color: aqua;
+  padding: 10px;
+}
+
+
+#featured-property{
+  text-align: center;
+  margin: auto;
+}
+
+figcaption{
+  font-size: small;
+}
+
+#ptag{
+  width: 800px;
+  margin: auto;
+}
+
+#one, #two, #three, #four{
+  padding-left: 120px;
+  margin-left: 70px;
+  text-align: center;
+
+}
+
+#details{
+  display: flex;
+  margin: auto;
+  width: 100%;
+  background-color: red;
+}
+
+
